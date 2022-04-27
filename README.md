@@ -1,5 +1,5 @@
 # BCG-Net
-pytoch code of "Binary Change Guided Hyperspectral Multiclass Change Detection"
+Pytoch code of "Binary Change Guided Hyperspectral Multiclass Change Detection"
 The Pytorch code of "Binary Change Guided Hyperspectral Multiclass Change Detection" will be released soon.
 
 The paper is available on https://arxiv.org/abs/2112.04493v2
