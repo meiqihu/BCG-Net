@@ -1,5 +1,5 @@
 # BCG-Net
-This is the Pytorch code of "Binary Change Guided Hyperspectral Multiclass Change Detection".
+This is the Pytorch code of TIP paper "Binary Change Guided Hyperspectral Multiclass Change Detection".
 
 The paper is available on https://arxiv.org/abs/2112.04493v2
 
