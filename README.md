@@ -36,7 +36,9 @@ or google drive,Link: https://drive.google.com/drive/folders/1qxtbLm4zu6pNvN25yp
 maincode.py
 
 # More
-[My personal google web](https://scholar.google.com.hk/citations?hl=zh-CN&user=jxyAHdkAAAAJ)
+🌷[Homepage](https://meiqihu.github.io/)🌷  </br>
+🔴[Google web](https://scholar.google.com.hk/citations?hl=zh-CN&user=jxyAHdkAAAAJ) 🔴 </br>
+🌏[ResearchGate](https://www.researchgate.net/profile/Humeiqi-humeiqi) 🌍
 
 
 
