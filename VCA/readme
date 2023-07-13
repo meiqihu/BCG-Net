@@ -1,1 +1,10 @@
+This is the MATLAB code of Hysime, VCA and FCLS.
 
+Hysime: Hyperspectral Signal Identification by Minimum Error
+
+VCA: Vertex Component Analysis
+
+FCLS: Fully constrained lest square
+
+The Hyperspectral Signal Identification by Minimum Error(Hysime) is applied to compute the total number of all endmembers of two HSIs. 
+We employ the Vertex Component Analysis [47] to calculate the endmember matrix E.
