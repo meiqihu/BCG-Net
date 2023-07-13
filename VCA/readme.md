@@ -11,3 +11,6 @@ D. C. Heinz and C.-I. Chang, “Fully constrained least squares linear spectral 
 
 The Hyperspectral Signal Identification by Minimum Error(**Hysime**) is applied to compute the total number of all endmembers of two HSIs. 
 We employ the **VCA** to calculate the endmember matrix E.
+
+# Usage
+try demo.m
