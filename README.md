@@ -32,13 +32,15 @@ or google drive,Link: https://drive.google.com/drive/folders/1qxtbLm4zu6pNvN25yp
 >>> endmember：channel, num_em               
 >>> Two_CMap：height, width （0 means unchanged, 1 means changed）
 >>> Mul_CMap：height, width   （0 means unchanged, 1,2,3... means different changed class）
+     
 
->> China_sampIdx_12288_4096.mat (used for pre-training of United Unmixing Module.)
+>> China_sampIdx_16384.mat (used for pre-training of United Unmixing Module.)
+>>> idx_sample： 1, 16384 （used for python index； selected for pre-training of United Unmixing Module）
+
+
+>> China_sampIdx_12288_4096.mat (for pre-training of Temporal Correlation Module and alternative optimization of the two modules. )
 >>> binary_label, 1,12288（the first 8192 samples are unchanged（labeled value as 0）; the remained 4096 samples are changed, labeled value as 1）         
->>> idx_sample: 1, 12288（index of the samples, used for python index； selected for ）          
-
->> China_sampIdx_16384.mat (for pre-training of Temporal Correlation Module and alternative optimization of the two modules)
->>> idx_sample
+>>> idx_sample: 1, 12288（index of the samples, used for python index； selected for pre-training of Temporal Correlation Module and alternative optimization of the two modules ）     
 # Usage
 maincode.py
 
