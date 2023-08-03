@@ -31,7 +31,7 @@ or google drive,Link: https://drive.google.com/drive/folders/1qxtbLm4zu6pNvN25yp
 >>> Y_3d：channel, height, width                
 >>> endmember：channel, num_em               
 >>> Two_CMap：height, width （0 means unchanged, 1 means changed）
->>> Mul_CMap：height, width   （0 means unchanged, 1 means changed）
+>>> Mul_CMap：height, width   （0 means unchanged, 1,2,3... means different changed class）
 
 >> China_sampIdx_12288_4096.mat (used for pre-training of United Unmixing Module.)
 >>> binary_label, 1,12288（the first 8192 samples are unchanged（labeled value as 0）; the remained 4096 samples are changed, labeled value as 1）         
