@@ -26,12 +26,16 @@ code：h3ul
 or google drive,Link: https://drive.google.com/drive/folders/1qxtbLm4zu6pNvN25ypfarssGSSJV7U-B.
 
 > ChinaData
->
 >> China_MultChange.mat (input data)
+>>> X_3d：channel, height, width                
+>>> Y_3d：channel, height, width                
+>>> endmember：channel, num_em               
+>>> Two_CMap：height, width  
+>>> Mul_CMap：height, width  
 
->> China_sampIdx_12288_4096.mat (used for pre-training of United Unmixing Module.)
+--China_sampIdx_12288_4096.mat (used for pre-training of United Unmixing Module.)
 
->> China_sampIdx_16384.mat (for pre-training of Temporal Correlation Module and alternative optimization of the two modules)
+-- China_sampIdx_16384.mat (for pre-training of Temporal Correlation Module and alternative optimization of the two modules)
 # Usage
 maincode.py
 
