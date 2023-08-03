@@ -37,8 +37,8 @@ or google drive,Link: https://drive.google.com/drive/folders/1qxtbLm4zu6pNvN25yp
 >>> binary_label, 1,12288（the first 8192 samples are unchanged（labeled value as 0）; the remained 4096 samples are changed, labeled value as 1）         
 >>> idx_sample: 1, 12288（index of the samples, used for python index）          
 
-> China_sampIdx_16384.mat (for pre-training of Temporal Correlation Module and alternative optimization of the two modules)
->> idx_sample
+>> China_sampIdx_16384.mat (for pre-training of Temporal Correlation Module and alternative optimization of the two modules)
+>>> idx_sample
 # Usage
 maincode.py
 
