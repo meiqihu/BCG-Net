@@ -19,7 +19,7 @@ Please cite our paper if you find it useful for your research.
 # Installation
 Install Pytorch 1.10.2 with Python 3.6
 # Dataset
-Download the [data file, including input data and training samples](https://pan.baidu.com/s/1r2qBHIHK4jrkKWsdmydK5Q ),passcode提取密码：8z8a
+Download the [data file, including input data and training samples](https://pan.baidu.com/s/1r2qBHIHK4jrkKWsdmydK5Q ),passcode提取密码：8z8a,
 Baidu Netdisk, Link：https://pan.baidu.com/s/1AVG7YhU1e9NYSgcruL7PcQ 
 code：h3ul
 
